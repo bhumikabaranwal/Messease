@@ -3,11 +3,11 @@ Overview
 The Hostel Mess Management App is designed to streamline hostel mess operations by providing features like mess menu display, complaint and feedback system, student fee management with QR code payments, and an admin dashboard for hostel staff.
 
 ## Features
-📌 Mess Menu Display (Daily/Weekly/Monthly view)
-📝 Complaint & Feedback System (Students can submit complaints and feedback directly)
-💳 QR Code-based Fee Management (Students can scan QR codes to check and pay their dues)
-🔔 Admin Dashboard (Manage student database, send notifications, update mess menu)
-✅ Secure Login System (Students & Admins authenticated via Firebase)
+##### 📌 Mess Menu Display (Daily/Weekly/Monthly view)
+##### 📝 Complaint & Feedback System (Students can submit complaints and feedback directly)
+##### 💳 QR Code-based Fee Management (Students can scan QR codes to check and pay their dues)
+##### 🔔 Admin Dashboard (Manage student database, send notifications, update mess menu)
+##### ✅ Secure Login System (Students & Admins authenticated via Firebase)
 
 ## Tech Stack
 ### Frontend:
