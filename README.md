@@ -59,13 +59,14 @@ Below is a 12-week development timeline to track progress and milestones:
 |------|-----------|-------|
 | **1** | **Project Setup & Research** | 📌 Finalize tech stack <br> 📌 Set up GitHub repository <br> 📌 Install Flutter & Firebase |
 | **2** | **UI/UX Design** | 🎨 Design wireframes & mockups <br> 🎨 Plan user flows for students & admins |
-| **3** | **Learn flutter and Flutter Setup & Authentication** | 🔐 Set up Firebase authentication <br> 🔐 Implement student & admin login system |
-| **4** | **Mess Menu Display** | 📅 Create UI for daily/weekly/monthly menu <br> 📅 Fetch & display menu from Firestore |
-| **5-6** | **Complaint & Feedback System** | 📝 Design UI for complaints & feedback <br> 📝 Store & retrieve complaints in Firestore <br> 📝 Admin dashboard for resolving complaints |
-| **7-8** | **QR Code-Based Fee Management** | 💳 Generate unique QR codes for payments <br> 💳 Integrate QR scanner for dues checking <br> 💳 Setup Razorpay/Paytm payment gateway |
-| **9-10** | **Admin Dashboard & Notifications** | 🛠 Build UI for student & mess management <br> 🛠 Implement notification system for due alerts <br> 🛠 Admin can update mess menu & manage users |
-| **11** | **Testing & Debugging** | ✅ Conduct unit & UI testing <br> ✅ Fix bugs & optimize performance |
-| **12** | **Final Deployment & Documentation** | 🚀 Deploy web version using Firebase Hosting <br> 🚀 Publish app for Android <br> 📄 Complete README & documentation |
+| **3** | **Learn flutter and Flutter Setup & Authentication** | 
+|**4**|Login,sign Up Page,Backend integration|🔐 Set up Firebase authentication <br> 🔐 Implement student & admin login system |
+| **5** | **Home Page**|**Mess Menu Display** | 📅 Create UI for daily/weekly/monthly menu <br> 📅 Fetch & display menu from Firestore |
+| **6** | **Complaint & Feedback System** | 📝 Design UI for complaints & feedback <br> 📝 Store & retrieve complaints in Firestore <br> 📝 Admin dashboard for resolving complaints |
+| **7** | **QR Code-Based Fee Management** | 💳 Generate unique QR codes for payments <br> 💳 Integrate QR scanner for dues checking <br> 💳 Setup Razorpay/Paytm payment gateway |
+| **8** | **Admin Dashboard & Notifications** | 🛠 Build UI for student & mess management <br> 🛠 Implement notification system for due alerts <br> 🛠 Admin can update mess menu & manage users |
+| **9** | **Testing & Debugging** | ✅ Conduct unit & UI testing <br> ✅ Fix bugs & optimize performance |
+| **10** | **Final Deployment & Documentation** | 🚀 Deploy web version using Firebase Hosting <br> 🚀 Publish app for Android <br> 📄 Complete README & documentation |
 
 ## 📜 License  
 
